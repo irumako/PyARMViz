@@ -19,9 +19,9 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-plotly = "^"
-networkx = "^"
-numpy = "^"
+plotly = "*"
+networkx = "*"
+numpy = "*"
 
 [build-system]
 requires = [
